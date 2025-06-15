@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mlcastor/esx_extraitems/compare/v1.0.0...v1.1.0) (2025-06-15)
+
+
+### Features
+
+* **esx_extraitems:** migrate legacy resource into template skeleton ([6e514ef](https://github.com/Mlcastor/esx_extraitems/commit/6e514ef20c0f382ecbfa9bb76d629577740d1972))
+
 ## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
 
 
